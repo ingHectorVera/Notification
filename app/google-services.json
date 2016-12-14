@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "393364599922",
+    "firebase_url": "https://notification-f4f18.firebaseio.com",
+    "project_id": "notification-f4f18",
+    "storage_bucket": "notification-f4f18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393364599922:android:5055c45753af4bd5",
+        "android_client_info": {
+          "package_name": "com.mac.hectorvera.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393364599922-fmht70vsfcv9vfes7ng10lgi80kekj0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr_lwA0vuKRZyllE0XqIqEy2woooHQQSE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
